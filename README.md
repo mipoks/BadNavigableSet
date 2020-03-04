@@ -1,5 +1,6 @@
 # MyNavigableSet
 
+This Java Class implements interface NavigableSet.
 This Java Class was written during the lesson at the university. I strongly do not recommend using this code in your real projects. Using this Class cause errors and bugs at runtime.
 
 
@@ -9,9 +10,9 @@ This Java Class was written during the lesson at the university. I strongly do n
 
 Creating Class Instance
 
-MyNavigableSet<Smth extends Comparable> thisSet = new MyNavigableSet
+MyNavigableSet<Smth extends Comparable> thisSet = new MyNavigableSet<>();
 
 ```
 
-You can see [JavaDoc](https://mipoks.github.io/BadNavigableSet/) to read about all methods of MyNavigableSet
+You can see [JavaDoc](https://mipoks.github.io/MyNavigableSet/) to read about all methods of MyNavigableSet
 
