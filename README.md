@@ -1,6 +1,6 @@
 # MyNavigableSet
 
-This Java Class implements interface NavigableSet.
+This Java Class implements interface SortedSet.
 This Java Class was written during the lesson at the university. I strongly do not recommend using this code in your real projects. Using this Class can cause errors and bugs at runtime.
 
 
