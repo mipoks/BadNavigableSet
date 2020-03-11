@@ -8,7 +8,7 @@ This Java Class was written during the lesson at the university. I strongly do n
 
 ```markdown
 
-Creating Class Instance
+//Creating Class Instance
 
 MyNavigableSet<Smth extends Comparable> thisSet = new MyNavigableSet<>();
 
